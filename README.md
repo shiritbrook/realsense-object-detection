@@ -1,6 +1,7 @@
 # RealSense Object Detection with Distance
 
 Detects objects in real time with an Intel® RealSense™ depth camera and shows **what** each object is and **how far away** it is, in meters, along with its 3D position relative to the camera.
+![Object detection with distance](screenshot.png)
 
 > **AI-assisted project.** I built this with Claude, basing it on the official [librealsense Python examples](https://github.com/realsenseai/librealsense/tree/master/wrappers/python/examples) from the RealSense SDK I managed for eleven years at Intel.
 
