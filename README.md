@@ -1,6 +1,6 @@
 # RealSense Object Detection with Distance
 
-Detects objects in real time with an Intel® RealSense™ depth camera and shows **what** each object is and **how far away** it is, in meters, along with its 3D position relative to the camera.
+Detects objects in real time with a RealSense™ depth camera and shows **what** each object is and **how far away** it is, in meters, along with its 3D position relative to the camera.
 
 ![Object detection with distance](screenshot.png)
 
